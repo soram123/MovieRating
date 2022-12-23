@@ -1,0 +1,30 @@
+.fly-horizontal {
+    display: flex;
+    column-gap: 30px;
+}
+
+.list-movie{
+    border: 2px solid black;
+    width:250px;
+    height:150px;
+    padding-left:15px;
+    margin-top: 5px;
+}
+
+.delete-button {
+    background-Color: red;
+     color:white;
+      cursor: pointer
+}
+
+.add-button {
+    background-color: green;
+    color: white;
+    cursor: pointer;
+}
+
+.search-button {
+    background-color: rgb(229, 85, 46);
+    color:white;
+    cursor: pointer;
+}
